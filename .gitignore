@@ -1,0 +1,30 @@
+# build output and intermediate directories
+bin/
+obj/
+
+# Node modules
+node_modules/
+
+# other files
+*.user
+*.suo
+*.userprefs
+*DS_Store
+*.cache
+*.vs/
+*.nupkg
+# Local Application Settings
+appsettings.Development.json
+# Azure publishing
+PublishProfiles/
+# Rider IDE
+.idea/
+
+# temporary files
+*.dbmdl
+*.jfm
+*.pfx
+*.publishsettings
+
+# npm debug logs
+npm-debug.log*
